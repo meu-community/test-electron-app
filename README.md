@@ -1,0 +1,1 @@
+This is just a simple app which we can use to test out webhook integrations to our Discord server. Created using the [Electron Quick Start Tutorial](https://www.electronjs.org/docs/latest/tutorial/quick-start).
